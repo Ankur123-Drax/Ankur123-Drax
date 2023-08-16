@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on **Optical Character Recognition**
 
-- 🌱 I’m currently learning **Master of Computer Application**
+- 🌱 I’m currently pursuing  **Master of Computer Application**
 
 - 📫 How to reach me **ankurmaurya123.bbsic@gmail.com**
 
