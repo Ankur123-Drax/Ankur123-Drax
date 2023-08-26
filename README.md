@@ -1,5 +1,5 @@
 ![logo](https://github.com/Ankur123-Drax/Ankur123-Drax/blob/main/ankur.png)
-<h1 align="center">Hi 👋, I'm <p style="color:red;">Ankur Maurya</p></h1>
+<h1 align="center">Hi 👋,<br> I'm Ankur Maurya</h1>
 <h3 align="center">A passionate Software developer from India</h3>
 
 <img align="right" alt="coding" width="400px" src="gif.gif" />
