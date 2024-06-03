@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ankur123-drax&label=Profile%20views&color=0e75b6&style=flat" alt="ankur123-drax" /> </p>
 
-- 🔭 I’m currently working on **Optical Character Recognition**
+- 🔭 I’m currently working on **Data Science Project's **
 
 - 🌱 I’m currently pursuing  **Master of Computer Application**
 
